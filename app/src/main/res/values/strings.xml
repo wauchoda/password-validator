@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">password-validator</string>
+    <string name="edit_message">Enter a password</string>
+    <string name="button_send">Submit</string>
+    <string name="textview">Not Strong</string>
+    <string name="password_message">Strong Password</string>
 </resources>

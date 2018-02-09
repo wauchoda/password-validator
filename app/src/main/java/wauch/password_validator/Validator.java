@@ -13,6 +13,7 @@ public class Validator {
 
     private Pattern pattern;
     private Matcher matcher;
+    public static final int PASSEDRULES = 5;
 
     private String REGEX;
 
